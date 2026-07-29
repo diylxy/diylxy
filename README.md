@@ -4,7 +4,7 @@
 
 ⚡ Embedded / C / C++ / Linux / Dart  
 
-![Lxydiy's GitHub stats](https://github-readme-stats-ten-pink.vercel.app/api?username=lxydiy)  
+![Lxydiy's GitHub stats](https://github-stats-extended.vercel.app/api?username=lxydiy)  
 
 <!--
 **lxydiy/lxydiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
